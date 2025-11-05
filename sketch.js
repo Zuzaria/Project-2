@@ -35,13 +35,13 @@ function draw() {
 
   // Bottom Text
   textAlign(CENTER);
-  textSize(20);
+  textSize(17);
   fill("white");
   text("List of flowers available for sale :3", width / 2, height - 20);
 
   // List
   textAlign(CENTER, CENTER);
-  textSize(15);
+  textSize(25);
   fill(245, 255, 156);
 
   let listHeight = 28;
